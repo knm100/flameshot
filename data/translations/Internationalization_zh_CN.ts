@@ -55,7 +55,7 @@
     <message>
         <location filename="../../src/tools/launcher/applauncherwidget.cpp" line="49"/>
         <source>Open With</source>
-        <translation>打开</translation>
+        <translation>用...打开</translation>
     </message>
     <message>
         <location filename="../../src/tools/launcher/applauncherwidget.cpp" line="78"/>
